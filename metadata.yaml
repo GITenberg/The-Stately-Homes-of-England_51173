@@ -1,5 +1,8 @@
 _repo: The-Stately-Homes-of-England_51173
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51173-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Jewitt, Llewellynn Frederick William
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '46274'
     url: http://www.gutenberg.org/2009/agents/46274
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51173#The-Stately-Homes-of-England
 gutenberg_issued: '2016-02-10'
 gutenberg_type: Text
 identifiers:
