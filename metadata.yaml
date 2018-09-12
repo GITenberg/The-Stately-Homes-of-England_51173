@@ -1,0 +1,43 @@
+_repo: The-Stately-Homes-of-England_51173
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Jewitt, Llewellynn Frederick William
+    birthdate: 1816
+    deathdate: 1886
+    gutenberg_agent_id: '41757'
+    url: http://www.gutenberg.org/2009/agents/41757
+  - agent_name: Hall, S. C. (Samuel Carter)
+    alias: Hall, Samuel Carter
+    birthdate: 1800
+    deathdate: 1889
+    gutenberg_agent_id: '46274'
+    url: http://www.gutenberg.org/2009/agents/46274
+description: ''
+gutenberg_issued: '2016-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51173'
+  lccn: '42049780'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Historic buildings -- England'
+- GITenberg
+tableOfContents: Series 1. I. Alton Towers, Staffordshire. II. Cobham Hall, Kent.
+  III. Mount Edgcumbe, Devonshire. IV. Cothele, Cornwall. V. Alnwick Castle, Northumberland.
+  VI. Hardwick Hall, Derbyshire. VII. Arundel Castle, Sussex. VIII. Penshurst, Kent.
+  IX. Warwick Castle, Warwickshire. X. Haddon Hall, Derbyshire. XI. Hatfield House,
+  Hertfordshire. XII. Cassiobury, Hertfordshire. XIII. Chatsworth, Derbyshire -- Series
+  2. I. Belvoir Castle, Leicestershire. II. Trentham, Staffordshire. III. Knole, Kent.
+  IV. Castle Howard, Yorkshire. V. Kedleston Hall, Derbyshire. VI. Audley End, Essex.
+  VII. Burleigh, Lincolnshire. VIII. Hever Castle, Kent. IX. Westwood Park, Worcestershire.
+  X. Melbourne Hall, Derbyshire. XI. Somerleyton, Suffolk. XII. Wilton House, Wiltshire.
+  XIII. Raby Castle, Durham. XIV. Cliefden, Buckinghamshire. XV. Warnham Court, Sussex.
+  XVI. Lowther Castle, Westmoreland. XVII. Clumber, Nottinghamshire. XVIII. Welbeck,
+  Nottinghamshire.
+title: The Stately Homes of England
+url: http://www.gutenberg.org/ebooks/51173
